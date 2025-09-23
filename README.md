@@ -3,7 +3,7 @@ Turn any recurring Google Calendar event into a daily **smart prompt** generator
 
 - Injects a fresh prompt into the event **description** at a scheduled time (default: **12:45 PM** in your time zone).
 - Works with **one or many events** (e.g., `thinking walk`, `deep work 1`).
-- Runs fully in your Google account via **Google Apps Script** — no servers.
+- Runs fully in your Google account via **Google Apps Script** - no servers.
 
 ## Quick start (2–3 min)
 1. Go to **https://script.google.com** → **New project**.
